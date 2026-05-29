@@ -13,4 +13,4 @@
 - How to structure a long-term learning repository
 
 ### 🔗 Live Profile
-[Your GitHub Profile Link]
+[README.md]
